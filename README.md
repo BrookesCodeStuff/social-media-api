@@ -1,1 +1,7 @@
-# social-media-api
+# Social Media API
+
+## Description
+
+## Usage
+
+## Walkthrough Video

@@ -39,3 +39,4 @@ REACTION FIELDS:
 * `username`
 
 ## Walkthrough Video
+[Walkthrough Video](https://drive.google.com/file/d/1On1Tv5bxuZ99RSdkkdNiAZQBZ46ZmfXR/view)
